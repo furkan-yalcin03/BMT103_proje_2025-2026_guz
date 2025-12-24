@@ -1,0 +1,3 @@
+C:/Users/mtfur/OneDrive/Desktop/bmt103 proje/BMT103 PROJE/cmake-build-debug/CMakeFiles/sonproje.dir
+C:/Users/mtfur/OneDrive/Desktop/bmt103 proje/BMT103 PROJE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mtfur/OneDrive/Desktop/bmt103 proje/BMT103 PROJE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
